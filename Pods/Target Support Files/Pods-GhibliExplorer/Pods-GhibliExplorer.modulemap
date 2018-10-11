@@ -1,0 +1,6 @@
+framework module Pods_GhibliExplorer {
+  umbrella header "Pods-GhibliExplorer-umbrella.h"
+
+  export *
+  module * { export * }
+}
